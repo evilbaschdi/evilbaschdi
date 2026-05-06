@@ -8,13 +8,11 @@ I develop robust Windows applications and tools with a focus on **clean code**, 
 ---
 
 ### 🧠 Architectur & Philosophy
-
 ![SOLID](https://img.shields.io/badge/Architecture-SOLID%20Principles-red?style=for-the-badge&logo=target)
 ![MVVM](https://img.shields.io/badge/Pattern-MVVM-8A2BE2?style=for-the-badge&logo=microsoft)
 ![Clean Code](https://img.shields.io/badge/Code-Clean-green?style=for-the-badge&logo=leaf)
 
 ### 🛠 Tech Stack
-
 **Languages**
 <br/>
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
