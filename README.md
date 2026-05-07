@@ -45,8 +45,6 @@ I develop robust Windows applications and tools with a focus on **clean code**, 
 | [![EvilBaschdi.About][EvilBaschdi.About.Badge]][EvilBaschdi.About.RepoLink]                         | About window (Core, Avalonia, Wpf)        | ![License-MIT] |
 | [![EvilBaschdi.Testing][EvilBaschdi.Testing.Badge]][EvilBaschdi.Testing.RepoLink]                   | Testing utilities & assertion extensions  | ![License-MIT] |
 
----
-
 ## Package Feeds
 
 | Feed                                                 | URL                                                            |
