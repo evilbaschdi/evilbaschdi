@@ -7,7 +7,7 @@
 I develop robust Windows applications and tools with a focus on **clean code**, **maintainability** and modern UI concepts.
 ---
 
-### 🧠 Architectur & Philosophy
+### 🧠 Architecture & Philosophy
 ![SOLID](https://img.shields.io/badge/Architecture-SOLID%20Principles-red?style=flat-square&logo=target)
 ![MVVM](https://img.shields.io/badge/Pattern-MVVM-8A2BE2?style=flat-square&logo=microsoft)
 ![Clean Code](https://img.shields.io/badge/Code-Clean-green?style=flat-square&logo=leaf)
