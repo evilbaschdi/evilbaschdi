@@ -39,7 +39,7 @@ I develop robust Windows applications and tools with a focus on **clean code**, 
 | [![EvilBaschdi.Core][EvilBaschdi.Core.Badge]][EvilBaschdi.Core.RepoLink]                            | Core assembly                             | ![License-MIT] |
 | [![EvilBaschdi.Core.Avalonia][EvilBaschdi.Core.Avalonia.Badge]][EvilBaschdi.Core.Avalonia.RepoLink] | Core Avalonia assembly                    | ![License-MIT] |
 | [![EvilBaschdi.Extensions][EvilBaschdi.Extensions.Badge]][EvilBaschdi.Extensions.RepoLink]          | DependencyInjection & Settings extensions | ![License-MIT] |
-| [![EvilBaschdi.About][EvilBaschdi.About.Badge]][EvilBaschdi.About.RepoLink]                         | About window (Core, Avalonia)             | ![License-MIT] |
+| [![EvilBaschdi.About][EvilBaschdi.About.Badge]][EvilBaschdi.About.RepoLink]                         | About window (Core, Avalonia, Terminal)   | ![License-MIT] |
 | [![EvilBaschdi.Testing][EvilBaschdi.Testing.Badge]][EvilBaschdi.Testing.RepoLink]                   | Testing utilities & assertion extensions  | ![License-MIT] |
 
 ## Package Feeds
