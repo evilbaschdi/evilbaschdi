@@ -23,8 +23,6 @@ I develop robust Windows applications and tools with a focus on **clean code**, 
 <br/>
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Avalonia](https://img.shields.io/badge/Avalonia_UI-B92612?style=flat-square&logo=avalonia&logoColor=white)
-![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=windows&logoColor=white)
-![MahApps](https://img.shields.io/badge/MahApps.Metro-82B366?style=flat-square&logo=metro&logoColor=white)
 
 **Concepts & Tooling**
 <br/>
@@ -40,9 +38,8 @@ I develop robust Windows applications and tools with a focus on **clean code**, 
 | :-------------------------------------------------------------------------------------------------- | :---------------------------------------- | :------------: |
 | [![EvilBaschdi.Core][EvilBaschdi.Core.Badge]][EvilBaschdi.Core.RepoLink]                            | Core assembly                             | ![License-MIT] |
 | [![EvilBaschdi.Core.Avalonia][EvilBaschdi.Core.Avalonia.Badge]][EvilBaschdi.Core.Avalonia.RepoLink] | Core Avalonia assembly                    | ![License-MIT] |
-| [![EvilBaschdi.Core.Wpf][EvilBaschdi.Core.Wpf.Badge]][EvilBaschdi.Core.Wpf.RepoLink]                | WPF core assembly                         | ![License-MIT] |
 | [![EvilBaschdi.Extensions][EvilBaschdi.Extensions.Badge]][EvilBaschdi.Extensions.RepoLink]          | DependencyInjection & Settings extensions | ![License-MIT] |
-| [![EvilBaschdi.About][EvilBaschdi.About.Badge]][EvilBaschdi.About.RepoLink]                         | About window (Core, Avalonia, Wpf)        | ![License-MIT] |
+| [![EvilBaschdi.About][EvilBaschdi.About.Badge]][EvilBaschdi.About.RepoLink]                         | About window (Core, Avalonia)             | ![License-MIT] |
 | [![EvilBaschdi.Testing][EvilBaschdi.Testing.Badge]][EvilBaschdi.Testing.RepoLink]                   | Testing utilities & assertion extensions  | ![License-MIT] |
 
 ## Package Feeds
@@ -63,14 +60,12 @@ I develop robust Windows applications and tools with a focus on **clean code**, 
 
 [EvilBaschdi.Core.Badge]: https://img.shields.io/badge/EvilBaschdi-.Core-blue?style=flat-square&logo=github
 [EvilBaschdi.Core.Avalonia.Badge]: https://img.shields.io/badge/EvilBaschdi-.Core.Avalonia-blue?style=flat-square&logo=github
-[EvilBaschdi.Core.Wpf.Badge]: https://img.shields.io/badge/EvilBaschdi-.Core.Wpf-blue?style=flat-square&logo=github
 [EvilBaschdi.Extensions.Badge]: https://img.shields.io/badge/EvilBaschdi-.Extensions-blue?style=flat-square&logo=github
 [EvilBaschdi.About.Badge]: https://img.shields.io/badge/EvilBaschdi-.About-blue?style=flat-square&logo=github
 [EvilBaschdi.Testing.Badge]: https://img.shields.io/badge/EvilBaschdi-.Testing-blue?style=flat-square&logo=github
 
 [EvilBaschdi.Core.RepoLink]: https://github.com/evilbaschdi/EvilBaschdi.Core
 [EvilBaschdi.Core.Avalonia.RepoLink]: https://github.com/evilbaschdi/EvilBaschdi.Core.Avalonia
-[EvilBaschdi.Core.Wpf.RepoLink]: https://github.com/evilbaschdi/EvilBaschdi.Core.Wpf
 [EvilBaschdi.Extensions.RepoLink]: https://github.com/evilbaschdi/EvilBaschdi.Extensions
 [EvilBaschdi.About.RepoLink]: https://github.com/evilbaschdi/EvilBaschdi.About
 [EvilBaschdi.Testing.RepoLink]: https://github.com/evilbaschdi/EvilBaschdi.Testing
